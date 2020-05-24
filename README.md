@@ -1,7 +1,7 @@
 #Bismillah
 #Assalamu-Alaikum 
 
-[+] Termux-Lazyscript :-
+[+] Termux-QDscript :-
  
    This tool is specially Designed for Termux Beginner 
    users.This tool is very helpfull for Beginners.here
@@ -10,18 +10,17 @@
 
 [+] Author :-
 
-   Name : Mujeeb
-   Youtube : www.youtube.com/TechnicalMujeeb
-   Github : https://github.com/TechnicalMujeeb/Termux-Lazyscript.git
-   whatsapp : Termux cyber   
+   Name : QDmank
+   Github : https://github.com/qdmank/Termux-QDscript.git
+     
 
 [+] Installation :-
   
     apt update && apt upgrade
     apt install git   
     apt install python2
-    git clone https://github.com/TechnicalMujeeb/Termux-Lazyscript.git
-    cd Termux-Lazyscript
+    git clone https://github.com/qdmank/Termux-QDscript.git
+    cd Termux-QDscript
     chmod +x *
     sh setup.sh
 
